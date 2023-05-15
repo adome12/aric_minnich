@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    hyphens:none;
+}
+h1{
+    color:red;
+}
+.Production_history{
+position:absolute;
+border:3px solid red;
+top:100px;
+width:400px;
+height:500px;
+color:lightblue;
+
+}
+.apple_growing{
+position:absolute;
+border:3px solid red;
+top:100px;
+width:400px;
+left:1100px;
+height:500px;
+color:lightblue;
+}
+#list_text,#list_texthis{
+    position: relative;
+    list-style-type: none;
+    right:20px;
+}
+h4{
+    text-align: center;
+    float:center;
+    
+}
+hr{
+    background-color:red;
+    height:4px;
+    border:none;
+}
+img{
+    position:relative;
+    top:25px;
+}
+#list_texthis{
+    line-height: 22.5px;;
+}
+#img2{
+    position:relative;
+    left:20px;
+}

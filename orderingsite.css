@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color:red;
+    
+}
+.tableright{
+    position:fixed;
+    left: 75px;
+    top: 70px;
+    font-size: xx-large;
+    letter-spacing: large;
+}
+.everything{
+    top:500px;
+}
+.tableleft{
+    position: fixed;
+left: 1250px;
+top:70px;
+font-size:xx-large;
+letter-spacing: large;
+}
+.image{
+    position:fixed;
+    float:center;
+    top:400px;
+    color:white;
+
+}
